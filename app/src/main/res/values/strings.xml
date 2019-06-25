@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Tennis Court Counter</string>
+    <string name="action_settings">Settings</string>
+    <string name="love_value">0</string>
+    <string name="pts">POINTS</string>
+    <string name="header">TENNIS COUNTER</string>
+    <string name="sets">SET</string>
+    <string name="reset_btn">RESET</string>
+    <string name="game_point">Game</string>
+    <string name="deuce_value">DEUCE</string>
+    <string name="advantage">AD</string>
+    <string name="serve_value">SERVE</string>
+</resources>
